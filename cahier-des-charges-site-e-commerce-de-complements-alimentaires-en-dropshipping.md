@@ -17,5 +17,3 @@
 
 
 1. [Description du Projet](#-description-du-projet)
-2. [Fonctionnalit'es](#-fonctionnalit'es)
-3. [Conception de l```Architecture Backend](#-conception-de-larchitecture-backend)
